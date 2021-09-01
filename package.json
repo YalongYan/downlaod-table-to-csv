@@ -1,0 +1,15 @@
+{
+  "name": "table-to-csv",
+  "version": "0.0.7",
+  "description": "把table表格下载为csv格式的文件",
+  "author": "yyl",
+  "private": false,
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "table-download",
+    "csv"
+  ]
+}
