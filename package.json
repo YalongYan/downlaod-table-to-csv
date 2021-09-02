@@ -1,6 +1,6 @@
 {
   "name": "table-to-csv",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "把table表格下载为csv格式的文件",
   "author": "yyl",
   "private": false,
@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/YalongYan/downlaod-table-to-csv"
   },
+  "homepage": "https://www.cnblogs.com/yalong/p/15214644.html",
   "keywords": [
     "table-download",
     "csv"
