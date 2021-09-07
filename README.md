@@ -1,3 +1,7 @@
+#### 环境说明：
+该组件是原生js编写，支持`typescript`; 在浏览器环境中使用，不区分 `vue`, `react`等框架环境
+#### 详细说明:
+[https://www.cnblogs.com/yalong/p/15214644.html](https://www.cnblogs.com/yalong/p/15214644.html)
 #### 安装
 `npm i table-to-csv -S`
 #### 使用示例
